@@ -1,0 +1,35 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main{
+    background-color:rgb(203, 218, 203);
+    width: 100vw;
+    height: 100vh;
+    display: inline-block;
+    position:relative;
+}
+
+.welcomebody{
+    background-color: rgba(232, 238, 243, 0.623);
+    text-align: center;
+    width: 45%;
+    margin:auto;
+    position:absolute;
+    top:25%;
+    left: 30%;
+}
+
+.site-title{
+    font-size: 40px;
+    color:lightsalmon;
+}
+
+.thumb{
+    height: 50px;
+    width: auto;
+}
+
+.homelist{
+    list-style-type: none;
+}
