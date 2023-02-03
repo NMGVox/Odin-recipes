@@ -9,7 +9,7 @@ body{
 
 .main{
     background-color:rgb(203, 218, 203);
-    width: 100vw;
+    width: auto;
     min-height: 100vh;
     max-height: auto;
     display: flex;
@@ -58,6 +58,7 @@ body{
     border-width: 5px;
     border-color: rgba(203, 218, 203, 0.671);
     border-radius: 20px;
+    margin-bottom: 24px;
 }
 
 .step-list{
